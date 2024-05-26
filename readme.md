@@ -4,11 +4,11 @@ TorZon Market is a darknet market that offers a variety of goods and services, h
 ## Torzon Market Link:
 
 ```sh
-http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion
+http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion/)
+[<img src="/assets/visit-market.webp" width="200">](http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion/)
 
-<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion"><img src="/assets/torzon-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 ## About Torzon Market
 Torzon Market has made a real impact since its launch in September 2022. It has attracted a number of high-profile vendors from around the world and is already building a strong customer base. The market offers a wide range of products, including physical items such as drugs, which are its most popular offering, as well as digital products such as software and guides.
@@ -17,4 +17,4 @@ Torzon Market has made a real impact since its launch in September 2022. It has 
 
 Once you've got past the captcha screen, you'll need to either log in or create a new account. When signing up for a new account, you must provide a username, password, 6-digit PIN and a personal phrase (a security feature to verify the site you're using is the real Torzon Market). You will then receive a mnemonic code in case you need to recover your account in future due to a forgotten password. If you want to reset your password or PIN, you'll need this code. Don't lose it!
 
-<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion"><img src="/assets/torzon-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://torzon4qei6bp6ibz6bpqgcntj3vcginecgrl7g4yae3xraqwbtmy5ad.onion"><img src="/assets/torzon-register.webp" alt="image" style="max-width: 100%;"><a>
